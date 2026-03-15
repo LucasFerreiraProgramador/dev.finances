@@ -3,6 +3,9 @@
 Aplicação de controle financeiro desenvolvida por **Lucas Ferreira Silva**,
 estudante de **Análise e Desenvolvimento de Sistemas**.
 
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/dev.finances/
+
 ---
 
 ## 🚀 Tecnologias
@@ -27,5 +30,10 @@ Layout inspirado em um modelo do Figma, utilizado apenas para fins educacionais.
 
 ---
 
-## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Back-End e Front-End.
